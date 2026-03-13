@@ -1,0 +1,17 @@
+p {	font-size: 20px; color: darkslateblue;}
+nav {color: darkseagreen; }
+
+.yelowp {color: royalblue;}
+
+#id {color: rosybrown;}
+
+a:active{color: lightsalmon;}
+
+.block {
+max-width: 500px;
+text-shadow: 10px 10px 15px rgba(0, 0, 0, 0.5);
+}
+
+#my-image {
+	box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+}
